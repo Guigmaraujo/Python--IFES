@@ -1,5 +1,5 @@
 
-minha_tupla = (3, 4, 6, 8, 10)
+minha_tupla = (2, 4, 6, 8, 10)
 
 
 todos_pares = True
