@@ -1,0 +1,2 @@
+Nome: Renan, Idade: 18, Curso: Informática
+Nome: José, Idade: 16, Curso: Engenharia
